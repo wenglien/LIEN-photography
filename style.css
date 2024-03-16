@@ -46,6 +46,7 @@ a {
     font-weight: 400; }
 
 #preloader {
+  -webkit-overflow-scrolling: touch;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -126,7 +127,7 @@ ol {
 
 img {
   height: auto;
-  border-radius: 9px;
+  border-radius: 10px;
   max-width: 100%; }
 
 .sonar-table {
