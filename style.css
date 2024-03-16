@@ -116,6 +116,7 @@ a {
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg); } }
+@-webkit-overflow-scrolling: touch;
 ul,
 ol {
   margin: 0; }
@@ -125,6 +126,7 @@ ol {
 
 img {
   height: auto;
+  border-radius: 9px;
   max-width: 100%; }
 
 .sonar-table {
