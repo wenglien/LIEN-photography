@@ -619,13 +619,13 @@ img {
     margin-top: 40px; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .hero-slides .single-hero-slide {
-      height: 800px; } }
+      height: 1400px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .hero-slides .single-hero-slide {
       height: 700px; } }
   @media only screen and (max-width: 767px) {
     .hero-slides .single-hero-slide {
-      height: 550px; } }
+      height: 700px; } }
 .hero-slides .owl-dots {
   position: absolute;
   left: 50px;
