@@ -622,10 +622,10 @@ img {
       height: 1400px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .hero-slides .single-hero-slide {
-      height: 750px; } }
+      height: 820px; } }
   @media only screen and (max-width: 767px) {
     .hero-slides .single-hero-slide {
-      height: 750px; } }
+      height: 820px; } }
 .hero-slides .owl-dots {
   position: absolute;
   left: 50px;
