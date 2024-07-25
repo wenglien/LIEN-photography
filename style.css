@@ -234,6 +234,10 @@ img {
   border-radius: 50%;
   top: 10px; }
 
+.scroll-container {
+  will-change: transform;
+}
+
 #scrollUp {
   background-color: #232323;
   border-radius: 50%;
